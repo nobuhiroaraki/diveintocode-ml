@@ -37,6 +37,7 @@
 * Sprint08 アンサンブル学習
 
 # Term2 深層学習
+
 * Sprint09 機械学習スクラッチニューラルネットワーク
 * Sprint10 機械学習スクラッチディープニューラルネットワーク
 * Sprint11 機械学習スクラッチ畳み込みニューラルネットワーク1
@@ -53,3 +54,8 @@
 * Sprint22 深層学習スクラッチリカレントニューラルネットワーク
 * Sprint23 ゲート付きリカレントニューラルネットワーク
 * Sprint24 Seq2Seq
+
+# term3 グループワーク
+
+グループでRaspberry Piを用いたセルフレジを作成しました。以下をご参照ください。
+https://github.com/nobuhiroaraki/bottle-detection
