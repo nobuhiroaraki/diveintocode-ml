@@ -57,6 +57,6 @@
 
 # term3 グループワーク
 
-グループでRaspberry Piを用いたセルフレジを作成しました。以下をご参照ください。
+グループで物体検出を応用し、Raspberry Piを用いたセルフレジを作成しました。以下をご参照ください。
 
 https://github.com/nobuhiroaraki/bottle-detection
