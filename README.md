@@ -2,7 +2,7 @@
 
 
 
-# term-0
+# term-0 python 機械学習ライブラリ
 
 * Week1 Python入門
 * Week1 授業前課題1 Pythonを使ってみよう
